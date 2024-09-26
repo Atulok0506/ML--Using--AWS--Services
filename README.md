@@ -1,7 +1,7 @@
 # Stock Price Prediction using AWS Services
 
 
-![AWS Sagemaker Endpoint](endpoint.png)
+<img src="endpoint.png" alt="AWS Sagemaker Endpoint" width="800" height="600" />
 
 ## Project Directory Structure
 
